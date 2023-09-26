@@ -3,7 +3,7 @@ const Footer = () => {
     <footer>
 
         <div className="footer-container">
-            <p>Projet réalisé par Sebastien - 2023</p>
+            <p>Projet réalisé par DonkeyGeek sur Udemy - Sebastien - 2023</p>
             <p>Les icônes Wolverine, Iron-man, Spiderman, Batman sont prises sur iconFinder.com</p>
         </div>
     </footer>
